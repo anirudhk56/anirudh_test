@@ -44,6 +44,4 @@ if __name__ == '__main__':
     sleep(1)
     print ("tokens =", bucket.tokens)
     sleep(1)
-    print ("tokens =", bucket.tokens)
-    print ("consume(90) =", bucket.consume(90))
-    print ("tokens =", bucket.tokens)
+    
